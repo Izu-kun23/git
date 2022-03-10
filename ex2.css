@@ -1,0 +1,46 @@
+.csy1018
+h1{
+    
+    background-color: rgb(55, 162, 189); 
+    color: white;
+    display: inline;
+    width: 150px;
+    float: left;
+}
+h2{
+    background-color: rgb(55, 162, 189); 
+        color: white;
+        display: inline;
+        width: 150px;
+        float: left;
+}
+p{
+        background-color: rgb(55, 162, 189); 
+        color: white;
+        display: inline;
+        width: 150px;
+        float: left; 
+}
+.csy1019 
+h1{
+    background-color: rgb(218, 205, 25); 
+    color: white;
+    display: inline;
+    width: 150px;
+    float: right;
+}
+h2{
+    background-color: rgb(218, 205, 25); 
+    color: white;
+    display: inline;
+    width: 150px;
+    float: right;
+}
+p {
+    background-color: rgb(218, 205, 25); 
+    color: white;
+    display: inline;
+    width: 150px;
+    float: right;
+}
+   
