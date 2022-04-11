@@ -1,0 +1,26 @@
+.easycomrade {
+    
+    background-color: yellow;
+    width: 600px;
+    height: 400px;
+}
+
+.easyminicomrade {
+   
+    background-color: pink;
+    width: 400px;
+    height: 250px;
+
+}
+
+.allhailcomrade{
+background-color: gray;
+    width: 100px;
+    height: 300px;
+}
+
+.comraderelax{
+background-color: rgb(107, 51, 180);
+    width: 100px;
+    height: 300px;
+}
