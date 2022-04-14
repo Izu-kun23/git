@@ -379,7 +379,8 @@ footer .copyright{
 
   /* ====================================== NAV BAR ====================================== */
   nav {
-      box-shadow:0 1rem 1rem rgba(0, 0, 0, 0.3)
+      box-shadow:0 1rem 1rem rgba(0, 0, 0, 0.3);
+      
   }
   
   nav h3{
@@ -391,20 +392,23 @@ footer .copyright{
   }
 
   nav .container ul{
-      position: fixed;
+      position:absolute;
       top: 0;
       flex-direction: column;
       z-index: 3;
       width: 16rem;
       height: 100vw;
+      display: all;
       background: var(--color-white);
       box-shadow: 1rem 0 2rem var(--color-primary-light);
-      display: none;
+      transition: 300ms ease-in-out;
+      transform-origin: top;
   }
 
   nav ul li{
       height: 4.6rem;
       width: 100%;
+     
   }
 
   nav .container ul li a{
